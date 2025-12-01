@@ -112,20 +112,147 @@ graph TB
 
 ---
 
-## 🛠️ Technology Radar
+## 🛠️ **Technology Radar**
 
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #0a192f, #112240); padding: 30px; border-radius: 20px; border: 2px solid #00FFF7; margin: 40px 0;">
 
-| **AI/ML**     | **Frontend**  | **Backend**    | **Infrastructure** |
-| ------------- | ------------- | -------------- | ------------------ |
-| Python 🐍     | React ⚛️      | Flask 🚀       | AWS ☁️             |
-| PyTorch 🤖    | Next.js 📱    | FastAPI ⚡      | Docker 🐳          |
-| OpenAI ⚡      | TypeScript 📘 | PostgreSQL 🗄️ | GitHub Actions 🔄  |
-| ElevenLabs 🎤 | Tailwind 🎨   | Redis 🔥       | Linux 🐧           |
+## 🎯 **Core Technology Stack**
 
-<img src="https://skill-icons.vercel.app/api?i=python,js,ts,react,nextjs,flask,fastapi,postgres,aws,docker,git,github&theme=dark&perline=6" />
+<table style="width: 100%; border-collapse: collapse; margin: 30px 0;">
+  <tr style="background: rgba(0, 255, 247, 0.1);">
+    <th style="padding: 20px; text-align: center; border: 1px solid #00FFF7; color: #00FFF7;">🤖 AI/ML</th>
+    <th style="padding: 20px; text-align: center; border: 1px solid #6A00FF; color: #6A00FF;">🌐 Frontend</th>
+    <th style="padding: 20px; text-align: center; border: 1px solid #FF00FF; color: #FF00FF;">⚙️ Backend</th>
+    <th style="padding: 20px; text-align: center; border: 1px solid #00FFF7; color: #00FFF7;">☁️ Infrastructure</th>
+  </tr>
+  <tr style="background: rgba(0, 255, 247, 0.05);">
+    <td style="padding: 15px; text-align: center; border: 1px solid #00FFF7;">
+      <div style="display: inline-block; background: rgba(0, 255, 247, 0.2); padding: 8px 15px; border-radius: 20px; margin: 5px; font-weight: bold;">
+        Python 🐍
+      </div>
+    </td>
+    <td style="padding: 15px; text-align: center; border: 1px solid #6A00FF;">
+      <div style="display: inline-block; background: rgba(106, 0, 255, 0.2); padding: 8px 15px; border-radius: 20px; margin: 5px; font-weight: bold;">
+        React ⚛️
+      </div>
+    </td>
+    <td style="padding: 15px; text-align: center; border: 1px solid #FF00FF;">
+      <div style="display: inline-block; background: rgba(255, 0, 255, 0.2); padding: 8px 15px; border-radius: 20px; margin: 5px; font-weight: bold;">
+        Flask 🚀
+      </div>
+    </td>
+    <td style="padding: 15px; text-align: center; border: 1px solid #00FFF7;">
+      <div style="display: inline-block; background: rgba(0, 255, 247, 0.2); padding: 8px 15px; border-radius: 20px; margin: 5px; font-weight: bold;">
+        AWS ☁️
+      </div>
+    </td>
+  </tr>
+  <tr style="background: rgba(106, 0, 255, 0.05);">
+    <td style="padding: 15px; text-align: center; border: 1px solid #00FFF7;">
+      <div style="display: inline-block; background: rgba(0, 255, 247, 0.2); padding: 8px 15px; border-radius: 20px; margin: 5px; font-weight: bold;">
+        PyTorch 🤖
+      </div>
+    </td>
+    <td style="padding: 15px; text-align: center; border: 1px solid #6A00FF;">
+      <div style="display: inline-block; background: rgba(106, 0, 255, 0.2); padding: 8px 15px; border-radius: 20px; margin: 5px; font-weight: bold;">
+        Next.js 📱
+      </div>
+    </td>
+    <td style="padding: 15px; text-align: center; border: 1px solid #FF00FF;">
+      <div style="display: inline-block; background: rgba(255, 0, 255, 0.2); padding: 8px 15px; border-radius: 20px; margin: 5px; font-weight: bold;">
+        FastAPI ⚡
+      </div>
+    </td>
+    <td style="padding: 15px; text-align: center; border: 1px solid #00FFF7;">
+      <div style="display: inline-block; background: rgba(0, 255, 247, 0.2); padding: 8px 15px; border-radius: 20px; margin: 5px; font-weight: bold;">
+        Docker 🐳
+      </div>
+    </td>
+  </tr>
+  <tr style="background: rgba(255, 0, 255, 0.05);">
+    <td style="padding: 15px; text-align: center; border: 1px solid #00FFF7;">
+      <div style="display: inline-block; background: rgba(0, 255, 247, 0.2); padding: 8px 15px; border-radius: 20px; margin: 5px; font-weight: bold;">
+        OpenAI ⚡
+      </div>
+    </td>
+    <td style="padding: 15px; text-align: center; border: 1px solid #6A00FF;">
+      <div style="display: inline-block; background: rgba(106, 0, 255, 0.2); padding: 8px 15px; border-radius: 20px; margin: 5px; font-weight: bold;">
+        TypeScript 📘
+      </div>
+    </td>
+    <td style="padding: 15px; text-align: center; border: 1px solid #FF00FF;">
+      <div style="display: inline-block; background: rgba(255, 0, 255, 0.2); padding: 8px 15px; border-radius: 20px; margin: 5px; font-weight: bold;">
+        PostgreSQL 🗄️
+      </div>
+    </td>
+    <td style="padding: 15px; text-align: center; border: 1px solid #00FFF7;">
+      <div style="display: inline-block; background: rgba(0, 255, 247, 0.2); padding: 8px 15px; border-radius: 20px; margin: 5px; font-weight: bold;">
+        GitHub Actions 🔄
+      </div>
+    </td>
+  </tr>
+  <tr style="background: rgba(0, 255, 247, 0.05);">
+    <td style="padding: 15px; text-align: center; border: 1px solid #00FFF7;">
+      <div style="display: inline-block; background: rgba(0, 255, 247, 0.2); padding: 8px 15px; border-radius: 20px; margin: 5px; font-weight: bold;">
+        ElevenLabs 🎤
+      </div>
+    </td>
+    <td style="padding: 15px; text-align: center; border: 1px solid #6A00FF;">
+      <div style="display: inline-block; background: rgba(106, 0, 255, 0.2); padding: 8px 15px; border-radius: 20px; margin: 5px; font-weight: bold;">
+        Tailwind 🎨
+      </div>
+    </td>
+    <td style="padding: 15px; text-align: center; border: 1px solid #FF00FF;">
+      <div style="display: inline-block; background: rgba(255, 0, 255, 0.2); padding: 8px 15px; border-radius: 20px; margin: 5px; font-weight: bold;">
+        Redis 🔥
+      </div>
+    </td>
+    <td style="padding: 15px; text-align: center; border: 1px solid #00FFF7;">
+      <div style="display: inline-block; background: rgba(0, 255, 247, 0.2); padding: 8px 15px; border-radius: 20px; margin: 5px; font-weight: bold;">
+        Linux 🐧
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔧 **Visual Technology Stack**
+
+<div style="background: rgba(255, 255, 255, 0.05); padding: 25px; border-radius: 15px; margin: 30px 0; border: 1px solid rgba(0, 255, 247, 0.3);">
+  <img src="https://skill-icons.vercel.app/api?i=python,js,ts,react,nextjs,flask,fastapi,postgres,aws,docker,git,github&theme=dark&perline=6" />
 </div>
 
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; margin-top: 30px;">
+  <div style="text-align: center; padding: 15px; background: rgba(0, 255, 247, 0.1); border-radius: 10px;">
+    <span style="font-size: 2em;">🤖</span>
+    <p style="margin: 10px 0 0; font-weight: bold; color: #00FFF7;">AI/ML</p>
+  </div>
+  <div style="text-align: center; padding: 15px; background: rgba(106, 0, 255, 0.1); border-radius: 10px;">
+    <span style="font-size: 2em;">🌐</span>
+    <p style="margin: 10px 0 0; font-weight: bold; color: #6A00FF;">Frontend</p>
+  </div>
+  <div style="text-align: center; padding: 15px; background: rgba(255, 0, 255, 0.1); border-radius: 10px;">
+    <span style="font-size: 2em;">⚙️</span>
+    <p style="margin: 10px 0 0; font-weight: bold; color: #FF00FF;">Backend</p>
+  </div>
+  <div style="text-align: center; padding: 15px; background: rgba(0, 255, 247, 0.1); border-radius: 10px;">
+    <span style="font-size: 2em;">☁️</span>
+    <p style="margin: 10px 0 0; font-weight: bold; color: #00FFF7;">Infrastructure</p>
+  </div>
+</div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 30px 0;"><div style="background: linear-gradient(135deg, rgba(0, 255, 247, 0.1), rgba(0, 255, 247, 0.05)); padding: 20px; border-radius: 15px; border-left: 4px solid #00FFF7;"> <h4 style="color: #00FFF7; margin-bottom: 10px;">🎯 Daily Drivers</h4> <p>Python • Flask • React • PostgreSQL • AWS</p> </div><div style="background: linear-gradient(135deg, rgba(106, 0, 255, 0.1), rgba(106, 0, 255, 0.05)); padding: 20px; border-radius: 15px; border-left: 4px solid #6A00FF;"> <h4 style="color: #6A00FF; margin-bottom: 10px;">⚡ Advanced Skills</h4> <p>PyTorch • FastAPI • Next.js • Docker • Redis</p> </div><div style="background: linear-gradient(135deg, rgba(255, 0, 255, 0.1), rgba(255, 0, 255, 0.05)); padding: 20px; border-radius: 15px; border-left: 4px solid #FF00FF;"> <h4 style="color: #FF00FF; margin-bottom: 10px;">🚀 Experimental</h4> <p>OpenAI APIs • ElevenLabs • Edge Computing</p> </div></div>
+
+</div>
+
+## 📊 **Expertise Levels**
+
+```mermaid
+pie title Technology Proficiency
+    "AI/ML Systems" : 35
+    "Backend Development" : 30
+    "Frontend Development" : 20
+    "Infrastructure" : 15
 ---
 
 ## 🚀 Innovation Pipeline Timeline
