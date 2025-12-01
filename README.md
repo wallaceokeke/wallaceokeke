@@ -1,4 +1,4 @@
-# 🚀 Wallace Okeke - AI Systems Architect & Digital Builder
+# 🚀 Wallace Okeke – AI Systems Architect & Digital Builder
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=4000&pause=1000&color=00FFF7&center=true&vCenter=true&width=800&lines=⚡+Building+Intelligent+Systems+That+Scale;🌍+Digital+Nomad+%7C+AI+Developer+%7C+Tech+Entrepreneur;🚀+Merging+Business+Acumen+With+Technical+Excellence" alt="Typing SVG" />
@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 **Real-Time Impact Dashboard**
+## 📊 Real-Time Impact Dashboard
 
 <div align="center">
-  
+
 ```mermaid
 graph LR
-    A[🤖 AI Development] --> B[📈 Business Impact];
-    C[🌐 Full-Stack] --> B;
-    D[💼 Strategy] --> B;
-    B --> E{🚀 Value Creation};
+    A[🤖 AI Development] --> B[📈 Business Impact]
+    C[🌐 Full-Stack] --> B
+    D[💼 Strategy] --> B
+    B --> E{🚀 Value Creation}
     
     style A fill:#00fff7,stroke:#333,stroke-width:2px
     style C fill:#6a00ff,stroke:#333,stroke-width:2px
@@ -27,22 +27,18 @@ graph LR
     style B fill:#0d0d0d,stroke:#00fff7,stroke-width:3px
 ```
 
-</div>
-
-<div align="center">
-  
-| Metric | Current Status | Trend |
-|--------|---------------|--------|
-| **Active Projects** | `4` | 📈 ↗️ |
-| **Technical Breadth** | `Full-Stack + AI` | ⚡ |
-| **Business Integration** | `Revenue-Focused` | 💼 |
-| **Location Flexibility** | `Digital Nomad` | 🌍 |
+| Metric                   | Current Status    | Trend |
+| ------------------------ | ----------------- | ----- |
+| **Active Projects**      | `4`               | 📈 ↗️ |
+| **Technical Breadth**    | `Full-Stack + AI` | ⚡     |
+| **Business Integration** | `Revenue-Focused` | 💼    |
+| **Location Flexibility** | `Digital Nomad`   | 🌍    |
 
 </div>
 
 ---
 
-## 🎯 **Strategic Focus Areas**
+## 🎯 Strategic Focus Areas
 
 <div align="center" style="margin: 20px 0;">
   <table>
@@ -74,7 +70,7 @@ graph LR
 
 ---
 
-## 📈 **Technical Architecture Graph**
+## 📈 Technical Architecture Graph
 
 ```mermaid
 graph TB
@@ -116,26 +112,23 @@ graph TB
 
 ---
 
-## 🛠️ **Technology Radar**
+## 🛠️ Technology Radar
 
 <div align="center">
 
-| **AI/ML** | **Frontend** | **Backend** | **Infrastructure** |
-|-----------|--------------|-------------|-------------------|
-| Python 🐍 | React ⚛️ | Flask 🚀 | AWS ☁️ |
-| PyTorch 🤖 | Next.js 📱 | FastAPI ⚡ | Docker 🐳 |
-| OpenAI ⚡ | TypeScript 📘 | PostgreSQL 🗄️ | GitHub Actions 🔄 |
-| ElevenLabs 🎤 | Tailwind 🎨 | Redis 🔥 | Linux 🐧 |
+| **AI/ML**     | **Frontend**  | **Backend**    | **Infrastructure** |
+| ------------- | ------------- | -------------- | ------------------ |
+| Python 🐍     | React ⚛️      | Flask 🚀       | AWS ☁️             |
+| PyTorch 🤖    | Next.js 📱    | FastAPI ⚡      | Docker 🐳          |
+| OpenAI ⚡      | TypeScript 📘 | PostgreSQL 🗄️ | GitHub Actions 🔄  |
+| ElevenLabs 🎤 | Tailwind 🎨   | Redis 🔥       | Linux 🐧           |
 
-</div>
-
-<div align="center">
-  <img src="https://skill-icons.vercel.app/api?i=python,js,ts,react,nextjs,flask,fastapi,postgres,aws,docker,git,github&theme=dark&perline=6" />
+<img src="https://skill-icons.vercel.app/api?i=python,js,ts,react,nextjs,flask,fastapi,postgres,aws,docker,git,github&theme=dark&perline=6" />
 </div>
 
 ---
 
-## 🚀 **Innovation Pipeline Timeline**
+## 🚀 Innovation Pipeline Timeline
 
 ```mermaid
 timeline
@@ -156,21 +149,7 @@ timeline
 
 ---
 
-## 📊 **GitHub Analytics Suite**
-
-<div align="center">
-
-### **Code Contribution Patterns**
-
-```mermaid
-xychart-beta
-    title "Monthly Code Activity"
-    x-axis [Jan, Feb, Mar, Apr, May, Jun]
-    y-axis "Commits" 0 --> 200
-    line [65, 120, 85, 145, 180, 165]
-```
-
-</div>
+## 📊 GitHub Analytics Suite
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
 
@@ -193,22 +172,18 @@ xychart-beta
 
 ---
 
-## 🌟 **Project Portfolio Matrix**
+## 🌟 Project Portfolio Matrix
 
-<div align="center">
-
-| Project | Stage | Business Impact | Tech Complexity |
-|---------|-------|-----------------|-----------------|
-| **🤖 AI Compliance Bots** | 🚀 Active | High | Advanced |
-| **🎤 Voice AI Platform** | 🔨 Building | Medium-High | Expert |
-| **💸 Fintech Automation** | 📈 Scaling | Very High | Advanced |
-| **🔐 Security AI** | 🔬 Research | Medium | Expert |
-
-</div>
+| Project                   | Stage       | Business Impact | Tech Complexity |
+| ------------------------- | ----------- | --------------- | --------------- |
+| **🤖 AI Compliance Bots** | 🚀 Active   | High            | Advanced        |
+| **🎤 Voice AI Platform**  | 🔨 Building | Medium-High     | Expert          |
+| **💸 Fintech Automation** | 📈 Scaling  | Very High       | Advanced        |
+| **🔐 Security AI**        | 🔬 Research | Medium          | Expert          |
 
 ---
 
-## 🎨 **Value Proposition Canvas**
+## 🎨 Value Proposition Canvas
 
 <div align="center" style="background: linear-gradient(135deg, #0d0d0d, #1a1a2e); padding: 25px; border-radius: 20px; border: 3px solid #00fff7; margin: 30px 0;">
 
@@ -219,12 +194,12 @@ technical_excellence:
   - Full-stack architecture
   - AI system implementation
   - Scalable cloud solutions
-  
+
 business_impact:
   - Revenue-generating systems
   - Market-fit validation
   - Investor-ready products
-  
+
 strategic_value:
   - Technical leadership
   - Product strategy
@@ -235,9 +210,7 @@ strategic_value:
 
 ---
 
-## 🤝 **Collaboration Network**
-
-<div align="center">
+## 🤝 Collaboration Network
 
 ```mermaid
 graph LR
@@ -253,11 +226,9 @@ graph LR
     style Investors fill:#6a00ff,stroke:#333
 ```
 
-</div>
-
 ---
 
-## 📞 **Strategic Connect Points**
+## 📞 Strategic Connect Points
 
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 40px 0;">
 
@@ -289,9 +260,7 @@ graph LR
 
 ---
 
-<div align="center" style="margin: 50px 0;">
-
-## **🚀 Ready to Build the Future?**
+## 🚀 Ready to Build the Future?
 
 ```yaml
 collaboration_criteria:
@@ -308,11 +277,9 @@ offer:
     - "Digital transformation expertise"
 ```
 
-</div>
-
 ---
 
-## 🎯 **Final Call to Action**
+## 🎯 Final Call to Action
 
 <div align="center" style="background: linear-gradient(135deg, #00fff7, #6a00ff, #ff00ff); padding: 40px; border-radius: 25px; margin: 50px 0;">
 
@@ -328,7 +295,7 @@ offer:
       📧 Start Conversation
     </button>
   </a>
-  
+
   <a href="https://github.com/wallaceokeke?tab=repositories" style="text-decoration: none;">
     <button style="background: #0d0d0d; color: #ff00ff; border: 3px solid #ff00ff; padding: 15px 30px; border-radius: 10px; font-size: 1.1em; cursor: pointer; font-weight: bold;">
       💻 Explore Projects
@@ -338,8 +305,6 @@ offer:
 
 </div>
 
----
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" style="border-radius: 20px; margin-top: 40px;">
 </p>
@@ -347,3 +312,5 @@ offer:
 <p align="center" style="margin-top: 20px;">
   <sub>© 2024 Wallace Okeke • AI Systems Architect • Building the Future Today</sub>
 </p>
+
+---
