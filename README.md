@@ -1,203 +1,95 @@
-# 🚀 Wallace Okeke - AI Systems Architect & Digital Builder
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=4000&pause=1000&color=00FFF7&center=true&vCenter=true&width=800&lines=⚡+Building+Intelligent+Systems+That+Scale;🌍+Digital+Nomad+%7C+AI+Developer+%7C+Tech+Entrepreneur;🚀+Merging+Business+Acumen+With+Technical+Excellence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C0FF&width=600&lines=🚀+Wallace+Okeke;⚡+AI+Systems+Architect;🌍+Digital+Builder+%7C+Tech+Entrepreneur" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:00FFF7&height=140&section=header&text=Wallace+Okeke&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI+Systems+Architect+%7C+Digital+Nomad&descSize=18&descAlignY=55"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff7,50:6a00ff,100:ff00ff&height=140&section=header&text=Wallace+Okeke&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Systems%20Architect%20%7C%20Digital%20Builder&descSize=20&descAlignY=55" />
-</p>
+## 👨‍💻 **About Me**
 
----
+```terminal
+╔═══════════════════════════════════════════════════════════════╗
+║ I architect intelligent systems that predict, adapt, and scale║
+║ Blending AI development with business strategy to drive impact ║
+╚═══════════════════════════════════════════════════════════════╝
+╝
+💼 Specializations
 
-## 🎯 Real-Time Builder Status
+AI Compliance Systems – Regulatory + policy intelligence bots
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🚀_Currently_Building-AI_Compliance_Bots-00fff7?style=for-the-badge&logo=probot&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/💼_Active_Projects-4-6a00ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/🌍_Location-Digital_Nomad-ff00ff?style=for-the-badge&logo=location&logoColor=white&labelColor=0d0d0d" />
-</p>
+Voice AI Platforms – Real-time processing & cloud sync engines
 
----
+Fintech Automation – Verification, scoring, workflow pipelines
 
-## 🧠 About The Architect
+Full-Stack Product Builds – MVP → Scale → Enterprise
 
-```yaml
-# 🤖 Professional Identity
-name: Wallace Okeke
-title: "AI Systems Architect | Tech Entrepreneur"
-philosophy: "Build systems that don't just work—they predict, adapt, and scale"
+🌍 Digital Nomad Philosophy
 
-# 🎯 Core Focus Areas
-specialties:
-  - AI-Powered Compliance Systems
-  - Voice Technology Integration
-  - Fintech Automation
-  - MVP Development & Scaling
-  - Digital Product Strategy
+Always building, always learning. Currently exploring AI's frontier.
 
-# 💡 Business Mindset
-approach: "Technical excellence meets business impact"
-motto: "Crashing the internet when bored is a feature, not a bug"
-```
-
----
-
-## ⚡ Live Tech Stack & Metrics
-
-### 🛠️ Core Technology Arsenal
-
-```text
-🤖 AI/ML Ecosystem:
-   ├── OpenAI Ecosystem ⚡
-   ├── ElevenLabs Voice AI 🎤
-   ├── Custom Agent Architectures 🧠
-   └── RAG Systems & Vector DBs 📊
-
-💻 Full-Stack Development:
-   ├── Python (Advanced) 🐍
-   ├── JavaScript/TypeScript 🌐
-   ├── React & Next.js ⚛️
-   └── Flask & FastAPI 🚀
-
-📊 Data & Infrastructure:
-   ├── PostgreSQL 🗄️
-   ├── Pandas/NumPy 📈
-   ├── Scikit-learn 🤖
-   └── Cloud Architecture ☁️
-```
-
-### 🎯 Business-Technical Integration
-
-```text
-🚀 Product Development:
-   ├── MVP → Scale Pipeline
-   ├── API-First Architecture
-   ├── User-Centric Design
-   └── Revenue-Generating Systems
-
-💼 Business Integration:
-   ├── Technical Strategy
-   ├── Cost-Effective Scaling
-   ├── Market-Fit Validation
-   └── Investor-Ready Systems
-```
-
----
-
-## 🌟 Current Innovation Pipeline
-
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🤖_AI_Compliance_Bots-ACTIVE-00fff7?style=flat-square&logo=probot" />
-        <br/>
-        <sub>Regulatory AI Systems</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🎤_Voice_Tech_Platform-BUILDING-6a00ff?style=flat-square&logo=sonos" />
-        <br/>
-        <sub>Next-Gen Voice Interfaces</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/💸_Fintech_Automation-SCALING-ff00ff?style=flat-square&logo=bank" />
-        <br/>
-        <sub>Financial Systems AI</sub>
-      </td>
-    </tr>
-  </table>
-</p>
-
----
-
-## 📈 GitHub Analytics & Impact
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallaceokeke&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00fff7&icon_color=6a00ff&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceokeke&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00fff7&text_color=ffffff" />
-</p>
-
----
-
-## 🎯 Why Collaborate With Me?
-
-```yaml
-# 💼 Business Value Proposition
-technical_breadth: "Full-stack to AI systems architecture"
-business_acumen: "Builds products that generate revenue"
-scaling_expertise: "MVP → Enterprise-grade systems"
-
-# 🚀 Project Success Factors
-delivery: "Agile, iterative, user-focused"
-innovation: "Cutting-edge tech with practical application"
-impact: "Systems that create tangible business value"
-```
-
----
-
-## 🌐 Connect & Collaborate
-
-<p align="center">
-  <!-- GitHub -->
-  <a href="https://github.com/wallaceokeke" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
-  </a>
-  
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/wallace-brown-3908652b0" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" />
-  </a>
-  
-  <!-- Email -->
-  <a href="mailto:brownwallace20@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Collaborate-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" />
-  </a>
-  
-  <!-- Projects -->
-  <a href="https://github.com/wallaceokeke?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Projects-Explore-purple?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
-  </a>
-</p>
-
----
-
-## 💡 Let's Build The Future Together
-
-```text
-🎯 Looking For:
-   • Ambitious tech projects with real impact
-   • Innovative startups needing technical leadership
-   • Enterprises seeking AI transformation
-   • Visionary founders who think big
-
-🚀 What I Bring:
-   • Technical architecture that scales
-   • Business-focused development
-   • Cutting-edge AI implementation
-   • Digital product strategy & execution
-```
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:6a00ff,100:00fff7&height=140&section=footer&text=🚀_Let's+Build+Something+Amazing+Together+🚀&fontSize=25&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <sub>⚡ Ready to transform your vision into scalable, intelligent systems? Let's connect.</sub>
-</p>
-
----
-
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" style="vertical-align: middle;"> <span style="font-size: 24px; font-weight: bold; margin-left: 10px;"><b>🛠️ TECH STACK</b></span> </p><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+🤖 AI & Machine Learning
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask" /> <br> <img src="https://skillicons.dev/icons?i=opencv,sqlite,postgres,docker,aws" /> </p>
+🌐 Full-Stack Development
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind" /> </p>
+⚡ DevOps & Infrastructure
+<p align="center"> <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,vercel,netlify,bash" /> </p><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+🔥 Innovation Pipeline
+Status	Project	Stack	Description
+🚀 Active	QISO Sentinel	Python, Gemini API, OCR	AI compliance bot with document intelligence
+🎤 Building	LISTEN Voice Studio	Python, Flask, Audio DSP	Real-time voice processing & effects platform
+⚙️ Engineering	Fintech Automation Engine	FastAPI, PostgreSQL, Redis	Automated verification & scoring workflows
+🔐 Researching	Malware Detection AI	PyTorch, Scikit-learn	Intelligent risk analysis for malicious content
+📌 Featured Projects
 <div align="center">
+🎤 LISTEN – Voice Creator Studio
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 
-### 📬 **Let's Create Impact Together**
-*"Building Africa's tech future, one intelligent system at a time"*
+Real-time voice processing with cloud sync & admin dashboard
 
-[![Email](https://img.shields.io/badge/📧_brownwallace20@gmail.com-Send_Message-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brownwallace20@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_Professionally-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallace-brown-3908652b0)
+Private Build | Audio DSP | Effects Engine | Multi-tenant
+
+</div><div align="center">
+🤖 QISO Sentinel
+https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+
+Regulatory compliance AI with document intelligence
+
+Internal System | OCR Processing | Policy Analysis | Audit Trails
 
 </div>
+📊 GitHub Analytics
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=wavecommandr&show_icons=true&theme=radical&bg_color=0d1117&title_color=00FFF7&icon_color=00FFF7&text_color=ffffff&border_color=00FFF7&border_radius=10
+https://github-readme-stats.vercel.app/api/top-langs/?username=wavecommandr&layout=compact&theme=radical&bg_color=0d1117&title_color=00FFF7&text_color=ffffff&border_color=00FFF7&border_radius=10
+
+</div><div align="center">
+https://streak-stats.demolab.com/?user=wavecommandr&theme=cyberpunk&border_radius=10&border=00FFF7&stroke=00FFF7&ring=00FFF7&fire=00FFF7&currStreakNum=00FFF7&sideNums=00FFF7&currStreakLabel=00FFF7&sideLabels=00FFF7&dates=ffffff
+
+</div><div align="center">
+https://github-readme-activity-graph.vercel.app/graph?username=wavecommandr&theme=react-dark&bg_color=0d1117&color=00FFF7&line=00FFF7&point=ffffff&area=true&hide_border=true
+
+</div><div align="center">
+https://github-profile-trophy.vercel.app/?username=wavecommandr&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=7
+
+</div><p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" /> </p>
+📬 Connect With Me
+<p align="center"> <a href="#"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117"/> </a> <a href="https://github.com/wavecommandr"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/> </a> <a href="#"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117"/> </a> <a href="#"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/> </a> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> </p><div align="center">
+╔═══════════════════════════════════════════════════╗
+║  BUILD SYSTEMS THAT THINK, AUTOMATE, AND SCALE    ║
+╚═══════════════════════════════════════════════════╝
+<sub>🚀 "Merging technical excellence with business impact"</sub>
+
+</div><p align="center"> <img src="https://komarev.com/ghpvc/?username=wavecommandr&color=00FFF7&style=flat-square" alt="Profile views" /> </p> ```
