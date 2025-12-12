@@ -230,7 +230,7 @@ graph LR
 
 ## 📞 Strategic Connect Points
 
-<div align="center" style="display: flex; flex-direction: column; gap: 20px; margin: 40px 0; max-width: 300px;">
+<div align="center" style="display: flex; flex-direction: row-reverse; gap: 20px; margin: 40px 0; flex-wrap: wrap; justify-content: center;">
 
   <div style="background: linear-gradient(135deg, #00fff7, #0d0d0d); padding: 20px; border-radius: 15px; text-align: center;">
     <h3>💼 LinkedIn</h3>
@@ -257,7 +257,6 @@ graph LR
   </div>
 
 </div>
-
 
 ---
 
