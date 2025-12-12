@@ -54,7 +54,7 @@ graph LR
         <div style="background: linear-gradient(135deg, #6a00ff, #0d0d0d); padding: 20px; border-radius: 15px; border: 2px solid #6a00ff;">
           <h3>💻 Full-Stack</h3>
           <p>React • Next.js • Flask • FastAPI</p>
-          <img src="https://via.placeholder.com/150/6a00ff/0d0d0d?text=Dev" width="80" style="border-radius: 10px;">
+          <img src="[https://via.placeholder.com/150/6a00ff/0d0d0d?text=Dev](https://github.com/wallaceokeke/wallaceokeke/blob/main/download%20(7).jpg)" width="80" style="border-radius: 10px;">
         </div>
       </td>
       <td align="center" width="33%">
