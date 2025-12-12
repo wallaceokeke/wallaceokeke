@@ -154,22 +154,21 @@ timeline
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
 
   <div style="background: linear-gradient(135deg, #0d1117, #00fff722); padding: 15px; border-radius: 15px; border: 2px solid #00fff7; width: 280px;">
-    <img height="160em" src="https://raw.githubusercontent.com/wallaceokeke/wallaceokeke/main/download.png" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wallaceokeke&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00fff7&icon_color=6a00ff&text_color=ffffff" />
     <p align="center"><b>Performance Metrics</b></p>
   </div>
 
   <div style="background: linear-gradient(135deg, #0d1117, #6a00ff22); padding: 15px; border-radius: 15px; border: 2px solid #6a00ff; width: 280px;">
-    <img height="160em" src="https://raw.githubusercontent.com/wallaceokeke/wallaceokeke/main/download%20(9).jpg" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceokeke&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00fff7&text_color=ffffff" />
     <p align="center"><b>Language Distribution</b></p>
   </div>
 
   <div style="background: linear-gradient(135deg, #0d1117, #ff00ff22); padding: 15px; border-radius: 15px; border: 2px solid #ff00ff; width: 280px;">
-    <img height="160em" src=""?user=wallaceokeke&theme=radical&hide_border=true&background=0D1117&stroke=00FFF7&ring=6A00FF&fire=FF00FF" />
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=wallaceokeke&theme=radical&hide_border=true&background=0D1117&stroke=00FFF7&ring=6A00FF&fire=FF00FF" />
     <p align="center"><b>Consistency Streak</b></p>
   </div>
 
 </div>
-
 
 ---
 
