@@ -123,7 +123,7 @@ graph TB
 | OpenAI ⚡      | TypeScript 📘 | PostgreSQL 🗄️ | GitHub Actions 🔄  |
 | ElevenLabs 🎤 | Tailwind 🎨   | Redis 🔥       | Linux 🐧           |
 
-<img src="https://skill-icons.vercel.app/api?i=python,js,ts,react,nextjs,flask,fastapi,postgres,aws,docker,git,github&theme=dark&perline=6" />
+<img src="https://github.com/wallaceokeke/wallaceokeke/blob/main/download%20(8).jpg" />
 </div>
 
 ---
