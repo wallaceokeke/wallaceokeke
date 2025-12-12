@@ -230,33 +230,34 @@ graph LR
 
 ## 📞 Strategic Connect Points
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 40px 0;">
+<div align="center" style="display: flex; flex-direction: column; gap: 20px; margin: 40px 0; max-width: 300px;">
 
-<div style="background: linear-gradient(135deg, #00fff7, #0d0d0d); padding: 20px; border-radius: 15px; text-align: center;">
-  <h3>💼 LinkedIn</h3>
-  <p>Professional Network</p>
-  <a href="https://www.linkedin.com/in/wallace-brown-3908652b0" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_Professionally-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <div style="background: linear-gradient(135deg, #00fff7, #0d0d0d); padding: 20px; border-radius: 15px; text-align: center;">
+    <h3>💼 LinkedIn</h3>
+    <p>Professional Network</p>
+    <a href="https://www.linkedin.com/in/wallace-brown-3908652b0" target="_blank">
+      <img src="https://img.shields.io/badge/Connect_Professionally-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </div>
+
+  <div style="background: linear-gradient(135deg, #6a00ff, #0d0d0d); padding: 20px; border-radius: 15px; text-align: center;">
+    <h3>📧 Email</h3>
+    <p>Direct Collaboration</p>
+    <a href="mailto:brownwallace20@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Send_Message-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </div>
+
+  <div style="background: linear-gradient(135deg, #ff00ff, #0d0d0d); padding: 20px; border-radius: 15px; text-align: center;">
+    <h3>💻 GitHub</h3>
+    <p>Project Portfolio</p>
+    <a href="https://github.com/wallaceokeke" target="_blank">
+      <img src="https://img.shields.io/badge/View_Projects-black?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </div>
+
 </div>
 
-<div style="background: linear-gradient(135deg, #6a00ff, #0d0d0d); padding: 20px; border-radius: 15px; text-align: center;">
-  <h3>📧 Email</h3>
-  <p>Direct Collaboration</p>
-  <a href="mailto:brownwallace20@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Send_Message-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<div style="background: linear-gradient(135deg, #ff00ff, #0d0d0d); padding: 20px; border-radius: 15px; text-align: center;">
-  <h3>💻 GitHub</h3>
-  <p>Project Portfolio</p>
-  <a href="https://github.com/wallaceokeke" target="_blank">
-    <img src="https://img.shields.io/badge/View_Projects-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-</div>
 
 ---
 
