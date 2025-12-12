@@ -54,14 +54,14 @@ graph LR
         <div style="background: linear-gradient(135deg, #6a00ff, #0d0d0d); padding: 20px; border-radius: 15px; border: 2px solid #6a00ff;">
           <h3>💻 Full-Stack</h3>
           <p>React • Next.js • Flask • FastAPI</p>
-          <img src="[https://via.placeholder.com/150/6a00ff/0d0d0d?text=Dev](https://github.com/wallaceokeke/wallaceokeke/blob/main/download%20(7).jpg)" width="80" style="border-radius: 10px;">
+          <img src="https://via.placeholder.com/150/6a00ff/0d0d0d?text=Dev](https://github.com/wallaceokeke/wallaceokeke/blob/main/download%20(7).jpg" width="80" style="border-radius: 10px;">
         </div>
       </td>
       <td align="center" width="33%">
         <div style="background: linear-gradient(135deg, #ff00ff, #0d0d0d); padding: 20px; border-radius: 15px; border: 2px solid #ff00ff;">
           <h3>🚀 Business</h3>
           <p>Strategy • Scaling • Impact</p>
-          <img src="https://via.placeholder.com/150/ff00ff/0d0d0d?text=Biz" width="80" style="border-radius: 10px;">
+          <img src="https://via.placeholder.com/150/ff00ff/0d0d0d?text=Biz](https://github.com/wallaceokeke/wallaceokeke/blob/main/how-to-scale-a-startup3-8b3e540cc85783662bdd899feb7d8899.png" width="80" style="border-radius: 10px;">
         </div>
       </td>
     </tr>
