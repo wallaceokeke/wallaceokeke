@@ -164,7 +164,7 @@ timeline
 </div>
 
 <div style="background: linear-gradient(135deg, #0d1117, #ff00ff22); padding: 15px; border-radius: 15px; border: 2px solid #ff00ff; width: 280px;">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=wallaceokeke&theme=radical&hide_border=true&background=0D1117&stroke=00FFF7&ring=6A00FF&fire=FF00FF" />
+  <img height="160em" src="https://github.com/wallaceokeke/wallaceokeke/blob/main/download%20(9).jpg)"?user=wallaceokeke&theme=radical&hide_border=true&background=0D1117&stroke=00FFF7&ring=6A00FF&fire=FF00FF" />
   <p align="center"><b>Consistency Streak</b></p>
 </div>
 
