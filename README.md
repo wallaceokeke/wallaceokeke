@@ -47,7 +47,7 @@ graph LR
         <div style="background: linear-gradient(135deg, #00fff7, #0d0d0d); padding: 20px; border-radius: 15px; border: 2px solid #00fff7;">
           <h3>🤖 AI Systems</h3>
           <p>Compliance • Voice AI • Automation</p>
-          <img src="https://via.placeholder.com/150/00fff7/0d0d0d?text=AI" width="80" style="border-radius: 10px;">
+          <img src="etcd" width="80" style="border-radius: 10px;">
         </div>
       </td>
       <td align="center" width="33%">
