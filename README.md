@@ -243,7 +243,7 @@ graph LR
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30" /> GITHUB TELEMETRY
+## ✦ GITHUB TELEMETRY
 
 <div align="center">
 
