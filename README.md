@@ -1,40 +1,25 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  WALLACE OKEKE — README.md  ·  THE DEFINITIVE EDITION       ║
-  ║  AI Systems Architect · Digital Builder · Nairobi, Kenya    ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
-
-<!-- ░░░ CINEMATIC HEADER ░░░ -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:03001e,50:03001e,80:000000,100:000000&height=320&section=header&text=WALLACE%20OKEKE&fontSize=78&fontColor=00fff7&animation=fadeIn&fontAlignY=42&stroke=6a00ff&strokeWidth=2&desc=%E2%97%88%20AI%20SYSTEMS%20ARCHITECT%20%20%E2%97%88%20DIGITAL%20BUILDER%20%20%E2%97%88%20NAIROBI%2C%20KENYA&descSize=18&descColor=9d86ff&descAlignY=62" width="100%" />
 
-</div>
-
-<!-- ░░░ ANIMATED ICON BAR ░░░ -->
-<div align="center">
 <br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="45" title="Energy" />&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="45" title="AI" />&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="45" title="Builder" />&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="45" title="Full-Stack" />&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="45" title="Launch" />&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" width="45" title="Business" />&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" width="45" title="Global" />&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="45" title="Value" />&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="45" title="Vision" />
-<br/><br/>
-</div>
 
-<!-- ░░░ TYPING ANIMATION ░░░ -->
-<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="45" />&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="45" />&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="45" />&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="45" />&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="45" />&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" width="45" />&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" width="45" />&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="45" />&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="45" />
+
+<br/><br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=21&duration=2600&pause=700&color=00FFF7&center=true&vCenter=true&width=820&lines=I+build+AI+systems+that+actually+ship.;Voice+AI.+Compliance+Engines.+Fintech.+Security.;Full-stack+from+zero+to+production+%E2%80%94+fast.;Nairobi-born.+Built+for+the+whole+world." alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- CONNECT STRIP -->
 [![LinkedIn](https://img.shields.io/badge/%E2%96%B8_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=03001e)](https://www.linkedin.com/in/wallace-brown-3908652b0)
 [![Email](https://img.shields.io/badge/%E2%96%B8_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=03001e)](mailto:brownwallace20@gmail.com)
 [![GitHub](https://img.shields.io/badge/%E2%96%B8_My_Projects-00fff7?style=for-the-badge&logo=github&logoColor=000000&labelColor=03001e)](https://github.com/wallaceokeke?tab=repositories)
@@ -47,17 +32,11 @@
 
 ---
 
-<!-- ░░░ SECTION 1 — WHO I AM ░░░ -->
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="32" />&nbsp;<b><kbd>WHO I AM</kbd></b>
-</div>
-
-<br/>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30" /> WHO I AM
 
 <table>
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="58%">
 
 > *I'm Wallace — an AI Systems Architect and Full-Stack Engineer from Nairobi, Kenya.*
 >
@@ -78,27 +57,9 @@ status:     Open to collaboration ✅
 ```
 
 </td>
-<td valign="top" width="45%" align="center">
+<td valign="top" width="42%" align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" />
-
-<br/>
-
-```python
-class WallaceOkeke:
-  role    = "AI Systems Architect"
-  stack   = ["Python","React",
-             "FastAPI","LLMs"]
-  base    = "Nairobi, KE"
-  target  = "Global Scale"
-
-  def ship(self, idea):
-    return (idea
-      .build()
-      .test()
-      .deploy()
-      .impact())   # always runs
-```
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" />
 
 </td>
 </tr>
@@ -108,24 +69,17 @@ class WallaceOkeke:
 
 ---
 
-<!-- ░░░ SECTION 2 — LIVE MISSIONS ░░░ -->
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32" />&nbsp;<b><kbd>LIVE MISSIONS</kbd></b>
-</div>
-
-<br/>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" /> LIVE MISSIONS
 
 <div align="center">
 <table>
 <tr>
 
-<!-- PROJECT 1 -->
 <td align="center" valign="top" width="25%">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="64" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="60" />
 
-**`STATUS: 🟢 LIVE`**
+**`🟢 LIVE`**
 
 ### AI Compliance Bots
 *Regulatory automation*
@@ -141,12 +95,11 @@ class WallaceOkeke:
 
 </td>
 
-<!-- PROJECT 2 -->
 <td align="center" valign="top" width="25%">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Loudspeaker.png" width="64" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Loudspeaker.png" width="60" />
 
-**`STATUS: 🔵 BUILDING`**
+**`🔵 BUILDING`**
 
 ### Voice AI Platform
 *Real-time speech engine*
@@ -162,12 +115,11 @@ class WallaceOkeke:
 
 </td>
 
-<!-- PROJECT 3 -->
 <td align="center" valign="top" width="25%">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="64" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="60" />
 
-**`STATUS: 🟠 SCALING`**
+**`🟠 SCALING`**
 
 ### Fintech Automation
 *Revenue systems built*
@@ -183,12 +135,11 @@ class WallaceOkeke:
 
 </td>
 
-<!-- PROJECT 4 -->
 <td align="center" valign="top" width="25%">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="64" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="60" />
 
-**`STATUS: 🟣 RESEARCH`**
+**`🟣 RESEARCH`**
 
 ### Security AI
 *Next-gen threat*
@@ -212,13 +163,7 @@ class WallaceOkeke:
 
 ---
 
-<!-- ░░░ SECTION 3 — TECHNOLOGY MATRIX ░░░ -->
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="32" />&nbsp;<b><kbd>TECHNOLOGY MATRIX</kbd></b>
-</div>
-
-<br/>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" /> TECHNOLOGY MATRIX
 
 <div align="center">
 
@@ -235,13 +180,7 @@ class WallaceOkeke:
 
 ---
 
-<!-- ░░░ SECTION 4 — ARCHITECTURE ░░░ -->
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" width="32" />&nbsp;<b><kbd>SYSTEM ARCHITECTURE</kbd></b>
-</div>
-
-<br/>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" width="30" /> SYSTEM ARCHITECTURE
 
 ```mermaid
 graph TB
@@ -279,22 +218,11 @@ graph TB
 
 <br/>
 
-```mermaid
-timeline
-    title 2024 · Mission Execution Log
-    section Q1 2024
-        AI Compliance Bots  : Shipped to production
-                            : Regulatory automation live
-    section Q2 2024
-        Voice AI Platform   : Building real-time pipeline
-                            : ElevenLabs speech engine
-    section Q3 2024
-        Fintech Automation  : Scaled to 10× throughput
-                            : Revenue systems growing
-    section Q4 2024
-        New AI Ventures     : Emerging tech research
-                            : Pipeline wide open
-```
+| Q1 2024 | Q2 2024 | Q3 2024 | Q4 2024 |
+|:---:|:---:|:---:|:---:|
+| 🟢 **AI Compliance Bots** | 🔵 **Voice AI Platform** | 🟠 **Fintech Automation** | 🟣 **New AI Ventures** |
+| Shipped to production | Real-time pipeline | Scaled 10× throughput | Emerging tech research |
+| Regulatory systems live | ElevenLabs speech engine | Revenue systems growing | Pipeline wide open |
 
 <br/>
 
@@ -315,13 +243,7 @@ graph LR
 
 ---
 
-<!-- ░░░ SECTION 5 — GITHUB TELEMETRY ░░░ -->
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="32" />&nbsp;<b><kbd>GITHUB TELEMETRY</kbd></b>
-</div>
-
-<br/>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30" /> GITHUB TELEMETRY
 
 <div align="center">
 
@@ -343,11 +265,10 @@ graph LR
 
 <br/><br/>
 
-<!-- CONTRIBUTION SNAKE — dark/light mode adaptive -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
@@ -356,17 +277,12 @@ graph LR
 
 ---
 
-<!-- ░░░ SECTION 6 — VALUE PROPOSITION ░░░ -->
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="32" />&nbsp;<b><kbd>WHAT I SHIP</kbd></b>
-</div>
-
-<br/>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="30" /> WHAT I SHIP
 
 <div align="center">
 <table>
 <tr>
+
 <td align="center" width="33%">
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="52" />
@@ -380,6 +296,7 @@ graph LR
 ```
 
 </td>
+
 <td align="center" width="33%">
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" width="52" />
@@ -393,6 +310,7 @@ graph LR
 ```
 
 </td>
+
 <td align="center" width="33%">
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="52" />
@@ -414,13 +332,7 @@ graph LR
 
 ---
 
-<!-- ░░░ SECTION 7 — CONNECT ░░░ -->
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="32" />&nbsp;<b><kbd>OPEN CHANNELS</kbd></b>
-</div>
-
-<br/>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="30" /> OPEN CHANNELS
 
 <div align="center">
 
@@ -428,20 +340,20 @@ graph LR
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/wallace-brown-3908652b0" target="_blank">
-<img src="https://img.shields.io/badge/%E2%96%B8%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=03001e" height="42" />
+<a href="https://www.linkedin.com/in/wallace-brown-3908652b0">
+<img src="https://img.shields.io/badge/%E2%96%B8%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=03001e" height="44" />
 </a>
 
 <br/><br/>
 
 <a href="mailto:brownwallace20@gmail.com">
-<img src="https://img.shields.io/badge/%E2%96%B8%20brownwallace20%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=03001e" height="42" />
+<img src="https://img.shields.io/badge/%E2%96%B8%20brownwallace20%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=03001e" height="44" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/wallaceokeke?tab=repositories">
-<img src="https://img.shields.io/badge/%E2%96%B8%20Browse%20All%20Projects%20%E2%86%92-00fff7?style=for-the-badge&logo=github&logoColor=000000&labelColor=03001e" height="42" />
+<img src="https://img.shields.io/badge/%E2%96%B8%20Browse%20All%20Projects%20%E2%86%92-00fff7?style=for-the-badge&logo=github&logoColor=000000&labelColor=03001e" height="44" />
 </a>
 
 </div>
@@ -450,8 +362,6 @@ graph LR
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
 ---
-
-<!-- ░░░ EPIC FOOTER ░░░ -->
 
 <div align="center">
 
@@ -465,7 +375,6 @@ graph LR
 
 <br/><br/>
 
-<!-- THE ORIGINAL BOTTOM GIF — preserved from your first README -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 
 <br/>
